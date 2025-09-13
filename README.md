@@ -8,6 +8,8 @@
 [![CCXT](https://img.shields.io/badge/CCXT-Latest-green.svg)](https://github.com/ccxt/ccxt)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg)](https://t.me/your_channel)
+![Profile Views](https://komarev.com/ghpvc/?username=bobacheese&color=brightgreen&label=Profile+Views)
+[![GitHub Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbobacheese%2Fbinance-bot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 *Bot trading otomatis untuk Binance Futures dengan Machine Learning dan manajemen risiko canggih* 🚀
 
@@ -354,3 +356,4 @@ pip install ccxt pandas numpy ta scikit-learn python-telegram-bot rich pyyaml jo
 ## Support
 
 Jika ada pertanyaan atau masalah, silakan buat issue di repository ini.
+
